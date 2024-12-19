@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mdakhtar_jamil" target="blank"><img src="https://img.shields.io/twitter/follow/mdakhtar_jamil?logo=twitter&style=for-the-badge" alt="mdakhtar_jamil" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps Full Stack Web Development**
+- 🌱 I’m currently learning **DevOps and Full Stack Web Development**
 
 - 👨‍💻 All of my projects are available at [https://jamil-dev-in.vercel.app/](https://jamil-dev-in.vercel.app/)
 
