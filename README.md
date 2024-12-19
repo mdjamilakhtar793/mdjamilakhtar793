@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://jamil-dev-in.vercel.app/](https://jamil-dev-in.vercel.app/)
 
-- 💬 Ask me about **JavaScript,TypeScript, React.js, MongoDB, MySQL, Next.js, Node.js,**
+- 💬 Ask me about **JavaScript,TypeScript, Python,Java, React.js, MongoDB, MySQL, Next.js, Node.js,**
 
 - 📫 How to reach me **mdjamilakhtar793@gmail.com**
 
