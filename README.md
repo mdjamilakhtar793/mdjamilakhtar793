@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md Jamil Akhtar</h1>
+<h1 align="center">Hi 👋, I'm Mohmmad Jamil Akhtar</h1>
 <h3 align="center">A passionate full stack Software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdjamilakhtar793&label=Profile%20views&color=0e75b6&style=flat" alt="mdjamilakhtar793" /> </p>
